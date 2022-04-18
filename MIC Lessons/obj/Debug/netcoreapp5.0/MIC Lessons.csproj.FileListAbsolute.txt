@@ -1,5 +1,0 @@
-C:\Users\karen\source\repos\MIC Lessons\MIC Lessons\obj\Debug\netcoreapp5.0\MIC Lessons.csproj.AssemblyReference.cache
-C:\Users\karen\source\repos\MIC Lessons\MIC Lessons\obj\Debug\netcoreapp5.0\MIC Lessons.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\karen\source\repos\MIC Lessons\MIC Lessons\obj\Debug\netcoreapp5.0\MIC Lessons.AssemblyInfoInputs.cache
-C:\Users\karen\source\repos\MIC Lessons\MIC Lessons\obj\Debug\netcoreapp5.0\MIC Lessons.AssemblyInfo.cs
-C:\Users\karen\source\repos\MIC Lessons\MIC Lessons\obj\Debug\netcoreapp5.0\MIC Lessons.csproj.CoreCompileInputs.cache
